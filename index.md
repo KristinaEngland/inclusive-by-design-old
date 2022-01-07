@@ -1,6 +1,6 @@
 The interactions we have as a society depend heavily on what we can see, hear, say, touch, and remember. It's important to keep in mind the wide range of ways people interact with the world so that we can design a workplace that is inclusive for all of us. The goal of this toolkit is to provide employees with an overall understanding of the disability community as well as how to be inclusive in day-to-day work activities, organizational planning and processes, and more.
 
-## Understand the Who Before the How
+## [Understand the Who Before the How](https://kristinaengland.github.io/inclusive-by-design/who)
 
 Before we talk about the various aspects of accessibility, it's important to understand why accessibility matters. Who is the disability community? Let's take a look at the social model of disability, the history of the disability rights movement, current voices in the community, and more.
 
