@@ -4,7 +4,7 @@ The interactions we have as a society depend heavily on what we can see, hear, s
 
 Before we talk about the various aspects of accessibility, it's important to understand why accessibility matters. Who is the disability community? Let's take a look at the social model of disability, the history of the disability rights movement, current voices in the community, and more.
 
-## How to Create an Inclusive Experience
+## [How to Create an Inclusive Experience](https://kristinaengland.github.io/inclusive-by-design/how)
 
 Digital and physical inclusion is essential to recruiting and retaining disabled employees and students. We must think about inclusion throughout the life cycle of a program, product, or service so that we can ensure that our colleagues and students can access the world in an equally effective and independent way.
 
