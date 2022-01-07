@@ -9,7 +9,7 @@ Every person has multiple identities. We must remember that when talking about a
 
 Keri Gray, founder and CEO of the Keri Gray Group, speaks about Disability and Intersectionality as part of a Ford Foundation video series.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/p2XN0CQazr0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p2XN0CQazr0" title="Disability and Intersectionality Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## General Disability Statistics
 
