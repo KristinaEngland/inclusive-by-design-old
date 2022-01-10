@@ -12,6 +12,8 @@ Disabled Young People Answer: What is Disability Pride?
 
 ## The Disability Pride Flag
 
+![A charcoal grey/almost-black flag crossed diagonally from top left to bottom right by a “lightning bolt” band divided into parallel stripes of five colors: light blue, yellow, white, red, and green. There are narrow bands of the same black between the colors.](https://github.com/KristinaEngland/inclusive-by-design/blob/gh-pages/assets/img/Disability_Pride_Flag_Ann_Magill_copyrights_waived.jpeg)
+
 The Disability Pride Flag was designed by Ann Magill.
 
 ### What each aspect of the design represents:
